@@ -1,15 +1,22 @@
-🎉 RakshaBandhan – Rakhi Celebration Webpage
-A festive, responsive webpage for Raksha Bandhan featuring a Rakhi-themed design, gift ideas, and an embedded advertisement video. Built using HTML, CSS, and JavaScript.
+# 🪢 RakshaBandhan – Celebrate the Bond 💖
 
-✨ Features
-🪢 Beautiful Rakhi-themed UI design
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-📱 Fully responsive layout for mobile, tablet, and desktop
+> A festive, responsive **HTML/CSS/JS** webpage for **Raksha Bandhan**, featuring a countdown, gift ideas, and a heartwarming ad video.
 
-🎥 Embedded Raksha Bandhan advertisement video
+---
 
-⏳ Countdown timer to Raksha Bandhan date
+## ✨ Features
+- 🎨 **Beautiful Rakhi-themed design** with festive colors
+- 📱 **Responsive** layout for all devices
+- 🎥 **Embedded Rakhi advertisement video**
+- ⏳ **Countdown timer** to Raksha Bandhan
+- 🎁 **Gift showcase** section with CTA buttons
+- ♿ **Accessible** semantic HTML structure
 
-🎁 Gift ideas and CTA sections
+---
 
-♿ Accessible structure with semantic HTML tags
+## 📂 Project Structure
